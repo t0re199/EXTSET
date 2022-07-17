@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/Applications/Karabiner-Elements.app/Contents/MacOS/Karabiner-Elements &>/dev/null &
+/Applications/Tiles.app/Contents/Library/LoginItems/TilesHelper.app/Contents/MacOS/TilesHelper &> /dev/null
